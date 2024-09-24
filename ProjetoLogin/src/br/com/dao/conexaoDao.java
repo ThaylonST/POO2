@@ -19,7 +19,7 @@ public class conexaoDao {
         java.sql.Connection conexao = null;
         
         String driver = "com.mysql.cj.jdbc.Driver";
-        String url = "jdbc:mysql://localhost:3306/bdprojetologin";
+        String url = "jdbc:mysql://localhost:3306/bdaulaeder";
         String user = "root";
         String password = "root";
         
